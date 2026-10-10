@@ -82,7 +82,4 @@ const CONFIG = {
 3. Click **Run**.
 4. *(First time only)* Click **Review Permissions**, select your Google account, click **Advanced**, and then click **Go to SheetMatch (unsafe)** to allow Google Sheets access.
 
----
 
-## 📄 License
-This project is free to use under the [MIT License](LICENSE).
